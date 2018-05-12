@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41252'
     url: http://www.gutenberg.org/2009/agents/41252
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41595#The-Funny-Side-of-Physic
 gutenberg_issued: '2012-12-10'
 gutenberg_type: Text
 identifiers:
