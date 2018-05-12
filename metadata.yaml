@@ -1,0 +1,40 @@
+_repo: The-Funny-Side-of-Physic_41595
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41595-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crabtre, Addison Darre
+    alias: Crabtre, A. D. (Addison Darre)
+    gutenberg_agent_id: '41252'
+    url: http://www.gutenberg.org/2009/agents/41252
+description: ''
+gutenberg_issued: '2012-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41595'
+  lccn: '29003104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quacks and quackery'
+- !lcsh 'Medicine -- Anecdotes'
+- !lcc 'R'
+tableOfContents: Medical humbugs -- Apothecaries -- Patent medicines -- Manufactured
+  doctors -- Woman as physician -- Quacks -- Charlatans and impostors -- Anecdotes
+  of physicians -- Fortune-tellers -- Eminent physicians and surgeons -- Ghosts and
+  witches -- Medical superstitions -- Travelling doctors -- Scenes from every-day
+  practice -- Doctors' fees and incomes -- Generosity and meanness -- Love and lovers
+  -- Mind and matter -- Eccentricities -- Prescriptions remarkable and ridiculous
+  -- Scenes from hospital and camp -- Gluttons and wine-bibbers -- The doctor as poet,
+  author, and musician -- Adulterations -- All about tobacco -- Dress and address
+  of physicians -- Medical facts and statistics -- Bleeders and butchers -- The omnium
+  gatherum -- The other side -- "This is for your health" -- Health without medicine
+  -- Consumption -- Accidents.
+title: "The Funny Side of Physic\r\nOr, The Mysteries of Medicine, Presenting the\
+  \ Humorous and Serious Sides of Medical Practice. An Exposé of Medical Humbugs,\
+  \ Quacks, and Charlatans in All Ages and All Countries."
+url: http://www.gutenberg.org/ebooks/41595
